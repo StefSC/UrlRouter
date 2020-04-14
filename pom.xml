@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.stef.examples</groupId>
+  <artifactId>UrlRouter</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>URL Router Resolver</name>
+  <description>Given a string input, you need to return a json with the url and parameters following a template</description>
+</project>
